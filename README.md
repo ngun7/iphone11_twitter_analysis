@@ -9,6 +9,6 @@ The scope of the analysis includes:
 During the project, we analyzed the data corresponding to 12000 tweets, which included features related to the tweets, retweets, user demographics, location, and the number of followers to a user to understand the impact that each tweet on its followers.
 
 This objective is achieved through accomplishing the below tasks:
-•	Web scrapping the customer review tweets on iPhone11, iPhone11Pro and iPhone11Pro Max from the data from twitter handles through API provided by Twitter
-•	Clean the text data obtained from web scraping and format it accordingly
-•	Analyze the final data obtained in the above step and Generate visualization graphs to explain the patterns in customer feedback through R/Python packages.
+  •	Web scrapping the customer review tweets on iPhone11, iPhone11Pro and iPhone11Pro Max from the data from twitter handles through API       provided by Twitter
+  •	Clean the text data obtained from web scraping and format it accordingly
+  •	Analyze the final data obtained in the above step and Generate visualization graphs to explain the patterns in customer feedback           through R/Python packages.
